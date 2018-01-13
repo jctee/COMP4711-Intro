@@ -48,7 +48,7 @@ and open the template in the editor.
             $third->add_grade(90);
             $students['j456'] = $third;
 
-            //sorts array
+            //sorts array of students.
             ksort($students);
             
             //prints each student in student array
