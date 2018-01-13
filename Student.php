@@ -7,7 +7,8 @@
  */
 
 /**
- * Description of Student
+ * Student Class has 4 member variables. These 4
+ * are the first name, last name, emails, and grades.
  *
  * @author JC
  */
